@@ -1,0 +1,20 @@
+This will be an analysis of the data taken from Citi Bike, this data examined one single year (2017). It was the only dataset found to include date data.
+Within the data, two phenomenon were identified and analysis was done in order to uncover some of the details. 
+____________________________________________________________________________________________
+
+
+____________________________________________________________________________________________
+
+Here is a detailed walkthrough of each analysis on each dashboard of the story attached.
+--------------------------------------------------------------------------------------------
+```Overview:```
+As shown on the graphs on this page, number of rides as well as trip duration are steadily increasing. Numbers for subscribers are also increasing as well as slightly slower number of customers. All numbers point toward a great month for Citi Bike.
+--------------------------------------------------------------------------------------------
+```Gender Analysis:```
+This analysis came about when I noticed that a very large majority of riders were male while ride durations are the same. This meant that the same distance of rides were being made between the genders yet less than a third would ride for females. Assessing further theories brought me to create a map of stations with the most female riders, bringing to light that outer limits of the city have significant less female riders. This is probably due to the areas having less people around and not as safe as a metropolitan area.
+--------------------------------------------------------------------------------------------
+```Top Station Info:```
+This phenomenon was discovered by creating a map of the most popular stations. What was strange was that while some had higher numbers of starting points, there was one station in which the number of starts was almost 1000 over the next station. This station is the Grove St PATH station and through further analysis of the rider numbers I found that there was a single customer who was responsible for this jump in the data. This customers average trip duration is 159,158 which is three times the next customers numbers, this makes this customer a prime target for building company name with his/her story, investigation and outreach should be the next steps for this customer.
+--------------------------------------------------------------------------------------------
+```Age Analysis:```
+There was also another strange point in the data of ages of riders. As the table shows, the distances ridden by most of our customers does not vary too far from the average line at the bottom. However the data also shows that a certain age group born in 1998 is massively towering the rest of the data. Through use of a map we can see that this age group seems to all be using bikes within the same region, meaning it must be a group of individuals who know each other or our advertising within the city limits is working very well.
